@@ -1,0 +1,13 @@
+# Ignore node modules (used in Node.js projects)
+node_modules/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files (Windows or Mac)
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
