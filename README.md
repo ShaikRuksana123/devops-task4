@@ -22,3 +22,9 @@ Learned how to:
 - Create branches and commits
 - Push code to GitHub
 This change was made in the **dev** branch.
+## Git Workflow Summary
+
+- Created branches: main, dev, feature
+- Worked on each branch and made commits
+- Used Pull Requests to merge into main
+- Added tag v1.0
